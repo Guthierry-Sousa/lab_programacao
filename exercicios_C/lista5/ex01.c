@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define TAM 10
+#define TAM 11
 #define RG 20
 
 void preencherVetor(int *vet, int tam);
